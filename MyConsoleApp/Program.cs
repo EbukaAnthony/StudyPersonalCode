@@ -3910,5 +3910,7 @@ internal class Program
 
         int value = (int)Days.Wednesday;
         Console.WriteLine(value);
+
+        Console.WriteLine("Hello, C# Academy!");
     }   
 }
