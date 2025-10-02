@@ -3911,11 +3911,19 @@ internal class Program
         int value = (int)Days.Wednesday;
         Console.WriteLine(value);
 
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
+        void FirstMethod()
+        {
+
+        }
+
+        void SecondMethod()
+        {
+
+        }
+
+        void ThirdMethod()
+        {
+
+        }
     }   
 }
