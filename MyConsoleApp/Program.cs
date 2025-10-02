@@ -3912,10 +3912,5 @@ internal class Program
         Console.WriteLine(value);
 
         Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
-        Console.WriteLine("Hello, C# Academy! One more modification");
     }   
 }
