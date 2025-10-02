@@ -3911,6 +3911,6 @@ internal class Program
         int value = (int)Days.Wednesday;
         Console.WriteLine(value);
 
-        Console.WriteLine("Hello, C# Academy!");
+        Console.WriteLine("Hello, C# Academy! One more modification");
     }   
 }
